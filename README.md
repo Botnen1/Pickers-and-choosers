@@ -5,3 +5,10 @@ Diceroll
 Coinflip
 Teamrandomizer
 GameChooser
+
+
+
+Bonus:
+Autoclicker 
+and 
+Minecraft autominer ;) 
