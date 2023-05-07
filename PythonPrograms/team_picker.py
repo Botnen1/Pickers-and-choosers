@@ -1,3 +1,7 @@
+"""
+Python program for splitting a set of people into two random teams
+"""
+
 import random as rnd
 from time import *
 
